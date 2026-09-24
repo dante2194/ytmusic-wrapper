@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ytm_red">#FF0000</color>
+    <color name="ytm_white">#FFFFFF</color>
+    <color name="ytm_black">#212121</color>
+</resources>
