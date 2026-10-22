@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.YTMusic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ytm_red</item>
+        <item name="colorPrimaryVariant">@color/ytm_red</item>
+        <item name="colorOnPrimary">@color/ytm_white</item>
+        <item name="android:statusBarColor">@color/ytm_black</item>
+    </style>
+</resources>
